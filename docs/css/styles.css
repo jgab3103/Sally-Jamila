@@ -10920,6 +10920,8 @@ html {
   padding: 0.8rem;
 }
 
+
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 1.5rem;
@@ -10979,7 +10981,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 50rem;
 }
 
 @media (min-width: 992px) {
